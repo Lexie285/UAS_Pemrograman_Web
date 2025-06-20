@@ -6,4 +6,4 @@ UAS_Pemrograman_Web
 - Dwiki Abdul Jalal (2222105011)
 - Hidayat Nur Wahid (2222105085) 
 - Muhammad Faizal(2222105017) 
-- Rafli Deden Juniardi
+- Rafli Deden Juniardi(2222105019)
