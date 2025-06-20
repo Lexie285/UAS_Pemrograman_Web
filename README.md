@@ -5,5 +5,5 @@ UAS_Pemrograman_Web
 - Barriq Kaykaus Mujau
 - Dwiki Abdul Jalal (2222105011)
 - Hidayat Nur Wahid (2222105085) 
-- Muhammad Faizal
+- Muhammad Faizal(2222105017) 
 - Rafli Deden Juniardi
